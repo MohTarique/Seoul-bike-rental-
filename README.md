@@ -14,4 +14,8 @@ Your task is to use Tableau to design a data visualization that illustrates the 
 
 1. Decide which columns are required for visualization
 2. Check the data types for the applicable columns you selected
+
+**DATA**
+![alt image](https://github.com/MohTarique/Seoul-bike-rental-/blob/60709b5f0a9e54567df4c3e7d7db534f105460a7/images_tableau/mvi-WqE-RqOPXtqPnECeuA_c6db52bba96e495682d6f74b5185f5f1_ADA_SR-011-Data-Types-Seoul.png)
+
    
