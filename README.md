@@ -11,11 +11,29 @@ Your task is to use Tableau to design a data visualization that illustrates the 
 
 
 ## Data Exploration and Profiling
-
+1. Open Tableau Public
+2. Upload dataset .xls
 1. Decide which columns are required for visualization
 2. Check the data types for the applicable columns you selected
 
 **DATA**
 ![alt image](https://github.com/MohTarique/Seoul-bike-rental-/blob/60709b5f0a9e54567df4c3e7d7db534f105460a7/images_tableau/mvi-WqE-RqOPXtqPnECeuA_c6db52bba96e495682d6f74b5185f5f1_ADA_SR-011-Data-Types-Seoul.png)
+
+## Create Worksheet
+build worksheet as shown in image and calculate feild
+![alt image](https://github.com/MohTarique/Seoul-bike-rental-/blob/54ec802e665c65f3ace6df6dcb451fd979701f3f/images_tableau/Screenshot%20(106).png)
+
+**Calculated Field** : as in this calculate feild captures the min hour in working days in all seasons
+![alt image](https://github.com/MohTarique/Seoul-bike-rental-/blob/e533b0fa8670a9d4f96923dbdfff876cd8f69294/images_tableau/Screenshot%20(105).png)
+
+here min hour for average bike rentals in 10 but with the help of calculted feild even if changes for every season and weekday it will capture minimun
+
+## DASHBOARD
+Finally the dashboard with filters for season 
+![alt image](https://github.com/MohTarique/Seoul-bike-rental-/blob/e533b0fa8670a9d4f96923dbdfff876cd8f69294/images_tableau/Dashboard%201.png)
+
+## CONCLUSION
+HOUR = 10 AM 
+is the right time with minimum traffic in bike rentals throughout the weekday and all seasons , so for servicing and repairs 10 AM is most appropriate
 
    
